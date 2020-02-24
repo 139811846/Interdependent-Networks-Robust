@@ -1,2 +1,2 @@
 # Interdependent-Networks-Robust
-Catastrophic cascade of failures in interdependent networks,Buldrev,2009   无标度相依网络相继故障求临界值方法复现
+Catastrophic cascade of failures in interdependent networks,Buldrev,2009   
